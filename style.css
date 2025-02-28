@@ -1,0 +1,20 @@
+h1{
+    color:green;
+    background-color:white;
+    font-size:35px;
+    text-align: center;
+  }
+  
+  img{
+    width:400px;
+  }
+  
+  h2{
+    color:green;
+  }
+  ul{
+    color:green;
+  }
+  .container {
+     text-align: center;
+  }
